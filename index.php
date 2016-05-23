@@ -1,16 +1,6 @@
 <!DOCTYPE HTML>
-<!--charlie's webhook test again-->
 <html>
-	<head>
-		<title>Em &amp; Sean</title>
-		<meta charset="utf-8" />
-		<link rel="shortcut icon" type="image/x-icon" href="images/newly-married-couple.png">
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-	</head>
+	<?php include('head.php'); ?>
 	<body class="landing">
 		<!-- Google Tag Manager -->
 		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5NF6MV"
@@ -25,25 +15,9 @@
 			<div id="page-wrapper">
 
 				<!-- Header -->
-					<header id="header" class="alt">
-						<h1><a href="index.html">Em &amp; Sean</a></h1>
-						<nav id="nav">
-							<ul>
-								<li class="special">
-									<!-- <a href="#menu" class="menuToggle"></a> -->
-									<div id="menu">
-										<ul>
-											<li><a href="index.html">Home</a></li>
-											<li><a href="generic.html">Generic</a></li>
-											<li><a href="elements.html">Elements</a></li>
-											<li><a href="#">Sign Up</a></li>
-											<li><a href="#">Log In</a></li>
-										</ul>
-									</div>
-								</li>
-							</ul>
-						</nav>
-					</header>
+				<?php  
+					include('header.php');
+				?>
 
 				<!-- Banner -->
 					<section id="banner">
@@ -85,7 +59,7 @@
 								<!-- <h2>Arcu aliquet vel lobortis ata nisl<br />
 								eget augue amet aliquet nisl cep donec</h2> -->
 								<p>Please join us for our wedding on Saturday, September 17th, 2016 in Saint Paul, Minnesota.<br />
-								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p> 
+								We are excited to see all of you and look forward to celebrating together.</p> 
 							</header>
 							<ul class="icons major">
 								<li><span class="icon fa-map-marker major style1"><span class="label">Lorem</span></span></li>
@@ -99,23 +73,20 @@
 					<section id="two" class="wrapper alt style2">
 						<section class="spotlight">
 							<div class="image"><img src="images/sanfranWed.jpg" alt="" /></div><div class="content">
-								<h2>Tortor dolore feugiat<br />
-								elementum magna</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+								<h2>How we met</h2>
+								<p>Emily and Sean met in January 2013 while attending an 80s throwback night at the Phoenix Children's Museum with mutual friends. They bonded over similar interests, and spent their first date watching Prince's Purple Rain together- the rest is history!</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/cambodiaWed.jpg" alt="" /></div><div class="content">
-								<h2>Tortor dolore feugiat<br />
-								elementum magna</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+							<div class="image"><img src="images/engagement.jpg" alt="" /></div><div class="content">
+								<h2>The Proposal</h2>
+								<p>Sean and Emily went hiking one Sunday afternoon as they often do. When they arrived at their favorite hiking spot, Sean surprised Emily with a mountaintop picnic. As the sun set over Phoenix while the couple enjoyed their picnic, Sean popped the question. They celebrated on the mountaintop well after sunset and encountered an unknown wild animal in the dark on the hike out. What was normally a casual hike turned out to be a very memorable night!</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/koreaWed.jpg" alt="" /></div><div class="content">
-								<h2>Augue eleifend aliquet<br />
-								sed condimentum</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+							<div class="image"><img src="images/houseWed.jpg" alt="" /></div><div class="content">
+								<h2>The Couple</h2>
+								<p>Sean and Emily currently reside in Chandler, Arizona. Sean is employed at Arizona State University as a business intelligence analyst and recently finished his Master’s degree in information management. Emily works as a nurse practitioner for the Healthcare Clinic at Walgreens. They recently adopted their dog, Charlie, a terrier mix. They are very excited to start this next chapter together as a married couple.</p>
 							</div>
 						</section>
 					</section>
@@ -227,17 +198,9 @@
 					</section>
 
 				<!-- Footer -->
-					<footer id="footer">
-						<ul class="icons">
-							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="mailto:seantobin7@gmail.com?Subject=Wedding%20contact" target="_top" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-						</ul>
-						<ul class="copyright">
-							<li>&copy; 2016 Mr. Lobster, LLC</li><!-- <li>Design: <a href="http://html5up.net">HTML5 UP</a></li> -->
-						</ul>
-					</footer>
+				<?php 
+					include('footer.php');
+				?>
 
 			</div>
 

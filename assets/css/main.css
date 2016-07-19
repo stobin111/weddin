@@ -3778,18 +3778,23 @@ body.is-mobile.landing #footer {
 }
 
 #countdown {
-  margin: 1.563em 0 1em 0;
+  margin: 2.5em 0;
 }
 
 #countdown > div {
-  padding: 10px;
+  padding: 15px;
   display: inline-block;
   border-right: thin solid;
   max-height: 25px;
 }
 
+#countdown > div > div.smalltext {
+  margin-top: 5px;
+}
+
 #countdown > div > div:not(.smalltext) {
   margin-top: -25px;
+  font-size: 2em;
 }
 
 #countdown > div:last-child {

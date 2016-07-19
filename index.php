@@ -15,7 +15,7 @@
 			<div id="page-wrapper">
 
 				<!-- Header -->
-				<?php  
+				<?php
 					include('header.php');
 				?>
 
@@ -25,7 +25,6 @@
 							<h2>Emily &amp; Sean</h2>
 							<p>September 17, 2016<br />
 							Saint Paul, Minnesota<br />
-						  <a href="https://twitter.com/search?f=tweets&q=%23tobranigan&src=typd" target="_blank">#TOBRANIGAN</a></p>
 						  <div id="countdown">
                 <div>
                   <div class="days"></div>
@@ -45,7 +44,7 @@
                 </div>
               </div>
 							<ul class="actions">
-								<!-- <li><a href="#rsvp" class="button special scrolly">RSVP</a></li> -->
+								<li><a href="info.php" class="button special scrolly">More Info</a></li>
 							</ul>
 						</div>
 						<a href="#one" class="more scrolly"></a>
@@ -59,7 +58,7 @@
 								<!-- <h2>Arcu aliquet vel lobortis ata nisl<br />
 								eget augue amet aliquet nisl cep donec</h2> -->
 								<p>Please join us for our wedding on Saturday, September 17th, 2016 in Saint Paul, Minnesota.<br />
-								We are excited to see all of you and look forward to celebrating together.</p> 
+								We are excited to see all of you and look forward to celebrating together.</p>
 							</header>
 							<ul class="icons major">
 								<li><span class="icon fa-map-marker major style1"><span class="label">Lorem</span></span></li>
@@ -80,7 +79,7 @@
 						<section class="spotlight">
 							<div class="image"><img src="images/engagement.jpg" alt="" /></div><div class="content">
 								<h2>The Proposal</h2>
-								<p>Sean and Emily went hiking one Sunday afternoon as they often do. When they arrived at their favorite hiking spot, Sean surprised Emily with a mountaintop picnic. As the sun set over Phoenix while the couple enjoyed their picnic, Sean popped the question. They celebrated on the mountaintop well after sunset and encountered an unknown wild animal in the dark on the hike out. What was normally a casual hike turned out to be a very memorable night!</p>
+								<p>Sean and Emily went hiking one Sunday afternoon as they often do. When they arrived at their favorite hiking spot, Sean surprised Emily with a mountaintop picnic. As the sun set over Phoenix and the couple enjoyed their picnic, Sean popped the question. They celebrated on the mountaintop well after sunset and encountered an unknown wild animal in the dark on the hike out. What was normally a casual hike turned out to be a very memorable night!</p>
 							</div>
 						</section>
 						<section class="spotlight">
@@ -95,20 +94,18 @@
 					<section id="three" class="wrapper style3 special">
 						<div class="inner">
 							<header class="major">
-								<h2>Other events and things to do</h2>
-								<p>coming soon...</p>
-								
+								<h2>Other events &amp; things to do</h2>
 							</header>
-							<!-- <ul class="features">
-								<li class="icon fa-paper-plane-o">
-									<h3>Arcu accumsan</h3>
+							<ul class="features">
+								<li class="icon fa-beer">
+									<h3>Friday Drinks</h3>
 									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
 								</li>
-								<li class="icon fa-laptop">
-									<h3>Ac Augue Eget</h3>
+								<li class="icon fa-cutlery">
+									<h3>Sunday Brunch</h3>
 									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
 								</li>
-								<li class="icon fa-code">
+								<!-- <li class="icon fa-code">
 									<h3>Mus Scelerisque</h3>
 									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
 								</li>
@@ -123,16 +120,16 @@
 								<li class="icon fa-flag-o">
 									<h3>Tortor Ut</h3>
 									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-							</ul> -->
+								</li> -->
+							</ul>
 						</div>
 					</section>
 					<!-- info -->
-					<section class="wrapper style1 special">
+					<section class="wrapper style4 special">
 						<div class="inner">
 							<header class="major">
 								<h2>More information</h2>
-								<p>Hotel: <br />
+								<!-- <p>Hotel: <br />
 								Best Western Plus Bandana Square<br />
 								1010 Bandana Boulevard W<br />
 								Saint Paul, Minnesota, 55108<br />
@@ -143,19 +140,19 @@
 								<p>Church:<br />
 								Maternity of Mary Church<br />
 								1414 Dale St N, St Paul, MN 55117</p>
-								
+
 								<p>Reception Site:<br />
 								Germanic American Institute<br />
-								301 Summit Ave, St Paul, MN 55102</p>
+								301 Summit Ave, St Paul, MN 55102</p> -->
 							</header>
 						</div>
 					</section>
 
-				<!-- RSVP -->
+				<!-- RSVP 
 					<section id="rsvp" class="wrapper style4">
 						<div class="inner">
 							<h4 style="text-align: center;">RSVP form coming soon</h4>
-						   <!-- <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post" novalidate>
+						   <form action="<?php //echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post" novalidate>
 						    	<div class="row uniform">
 						    	  <section id="formRepeat">
                       <div class="newGuest row uniform">
@@ -178,7 +175,7 @@
                         	<label for="demo-priority-high">Veg</label>
                         </div>
                       </div>
-                    </section> 
+                    </section>
 						    		<div class="12u$">
 						    			<a onclick="addGuest()" id="addGuest" class="button special icon fa-user-plus">Add</a>
 						    			<a onclick="rmGuest()" id="rmGuest" class="button icon fa-user-times">Remove</a>
@@ -193,12 +190,12 @@
 						    			</ul>
 						    		</div>
 						    	</div>
-						    </form> -->
+						    </form>
 						</div>
-					</section>
+					</section>  -->
 
 				<!-- Footer -->
-				<?php 
+				<?php
 					include('footer.php');
 				?>
 

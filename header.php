@@ -3,11 +3,11 @@
 	<nav id="nav">
 		<ul>
 			<li class="special">
-				<a href="#menu" class="menuToggle"></a>
+				<a href="#menu" class="menuToggle">Menu</a>
 				<div id="menu">
 					<ul>
 						<li><a href="index.php">Home</a></li>
-						<li><a href="generic.php">Information</a></li>
+						<li><a href="info.php">Information</a></li>
 					</ul>
 				</div>
 			</li>

@@ -79,12 +79,12 @@
 						<section class="spotlight">
 							<div class="image"><img src="images/engagement.jpg" alt="" /></div><div class="content">
 								<h2>The Proposal</h2>
-								<p>Sean and Emily went hiking one Sunday afternoon as they often do. When they arrived at their favorite hiking spot, Sean surprised Emily with a mountaintop picnic. As the sun set over Phoenix and the couple enjoyed their picnic, Sean popped the question. They celebrated on the mountaintop well after sunset and encountered an unknown wild animal in the dark on the hike out. What was normally a casual hike turned out to be a very memorable night!</p>
+								<p>Sean and Emily went hiking one Sunday afternoon as they often do. When they arrived at their favorite hiking spot, Sean surprised Emily with a mountaintop picnic. As the sun set over Phoenix and they enjoyed their picnic, Sean popped the question. They celebrated on the mountaintop well after sunset and encountered an unknown wild animal in the dark on the hike out. What was normally a casual hike turned out to be a very memorable night!</p>
 							</div>
 						</section>
 						<section class="spotlight">
 							<div class="image"><img src="images/houseWed.jpg" alt="" /></div><div class="content">
-								<h2>The Couple</h2>
+								<h2>About Us</h2>
 								<p>Sean and Emily currently reside in Chandler, Arizona. Sean is employed at Arizona State University as a business intelligence analyst and recently finished his Master’s degree in information management. Emily works as a nurse practitioner for the Healthcare Clinic at Walgreens. They recently adopted their dog, Charlie, a terrier mix. They are very excited to start this next chapter together as a married couple.</p>
 							</div>
 						</section>
@@ -94,7 +94,7 @@
 					<section id="three" class="wrapper style3 special">
 						<div class="inner">
 							<header class="major">
-								<h2>Other events &amp; things to do</h2>
+								<h2>Other events</h2>
 							</header>
 							<ul class="features">
 								<li class="icon fa-beer">
@@ -125,10 +125,11 @@
 						</div>
 					</section>
 					<!-- info -->
-					<section class="wrapper style4 special">
+					<section id="cta" class="wrapper style4">
 						<div class="inner">
-							<header class="major">
+							<header>
 								<h2>More information</h2>
+								<p>Click the button to find out more information about our wedding and accommodations.</p>
 								<!-- <p>Hotel: <br />
 								Best Western Plus Bandana Square<br />
 								1010 Bandana Boulevard W<br />
@@ -145,6 +146,9 @@
 								Germanic American Institute<br />
 								301 Summit Ave, St Paul, MN 55102</p> -->
 							</header>
+							<ul class="actions vertical">
+								<li><a href="#" class="button fit">More Info</a></li>
+							</ul>
 						</div>
 					</section>
 

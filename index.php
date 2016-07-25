@@ -147,7 +147,7 @@
 								301 Summit Ave, St Paul, MN 55102</p> -->
 							</header>
 							<ul class="actions vertical">
-								<li><a href="#" class="button fit">More Info</a></li>
+								<li><a href="info.php" class="button fit">More Info</a></li>
 							</ul>
 						</div>
 					</section>

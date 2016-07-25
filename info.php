@@ -31,7 +31,7 @@
 								    <p><a href="tel:+651-647-1637">651-647-1637</a><br />
                     <a target="_blank" href="http://book.bestwestern.com/bestwestern/US/MN/Saint-Paul-hotels/BEST-WESTERN-PLUS-Bandana-Square/Hotel-Overview.do?propertyCode=24130">Hotel Website</a><br />
                     <a target="_blank" href="http://book.bestwestern.com/bestwestern/groupSearch.do?groupId=3L7MV5N5">Book Directly with the room block</a></p>
-                    <p>The block of rooms is reserved until August 1st, 2016. There will be a complimentary shuttle from the hotel to the reception site on the night of the wedding.</p>
+                    <p>The block of rooms is reserved until August 15<sup>th</sup>, 2016. There will be a complimentary shuttle from the hotel to the reception site on the night of the wedding.</p>
 								  </div>
                   <div class="6u 12u$(medium)">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2822.636030858841!2d-93.15663964673071!3d44.971389095658544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32b3c1da35985%3A0x6c02e62cc2a422e4!2s1010+Bandana+Blvd+W%2C+St+Paul%2C+MN+55108!5e0!3m2!1sen!2sus!4v1468946467007" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

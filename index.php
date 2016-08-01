@@ -99,11 +99,11 @@
 							<ul class="features">
 								<li class="icon fa-beer">
 									<h3>Friday Drinks</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+									<p>We will be gathering for drinks and appetizers on Friday September 16th. Time and location information coming soon.</p>
 								</li>
 								<li class="icon fa-cutlery">
 									<h3>Sunday Brunch</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+									<p>We are having brunch on Sunday September 18th. Time and location information coming soon.</p>
 								</li>
 								<!-- <li class="icon fa-code">
 									<h3>Mus Scelerisque</h3>

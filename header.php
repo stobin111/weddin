@@ -6,8 +6,8 @@
 				<a href="#menu" class="menuToggle">Menu</a>
 				<div id="menu">
 					<ul>
-						<li><a href="index.php">Home</a></li>
-						<li><a href="info.php">Information</a></li>
+						<li><a href="/">Home</a></li>
+						<li><a href="deets.php">Information</a></li>
 						<li><a href="toDo.php">Things to do</a></li>
 					</ul>
 				</div>

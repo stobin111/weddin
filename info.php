@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	Spectral by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 	<?php include('head.php'); ?>
 	<body>
@@ -16,7 +11,7 @@
 				?>
 				<!-- Main -->
 					<article id="main">
-						<header>
+						<header id="subHeader">
 							<h2>More Information</h2>
 							<p>Details regarding lodging, the ceremony, and reception</p>
 						</header>
@@ -66,9 +61,7 @@
 					</article>
 
 				<!-- Footer -->
-				<?php 
-					include('footer.php')
-				?>
+				<?php include('footer.php'); ?>
 
 			</div>
 

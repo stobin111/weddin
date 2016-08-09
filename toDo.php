@@ -11,7 +11,7 @@
 				?>
 				<!-- Main -->
 					<article id="main">
-						<header>
+						<header id="subHeader">
 							<h2>Things to do</h2>
 							<p>Facts, Food, and other fun things</p>
 						</header>

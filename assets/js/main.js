@@ -22,6 +22,7 @@
 			$wrapper = $('#page-wrapper'),
 			$banner = $('#banner'),
 			$header = $('#header');
+      $subHeader = $('#subHeader');
 
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
@@ -87,6 +88,20 @@
 				$window.on('resize', function() { $window.trigger('scroll'); });
 
 				$banner.scrollex({
+					bottom:		$header.outerHeight() + 1,
+					terminate:	function() { $header.removeClass('alt'); },
+					enter:		function() { $header.addClass('alt'); },
+					leave:		function() { $header.removeClass('alt'); }
+				});
+
+			}
+    
+      if ($subHeader.length > 0
+			&&	$header.hasClass('alt')) {
+
+				$window.on('resize', function() { $window.trigger('scroll'); });
+
+				$subHeader.scrollex({
 					bottom:		$header.outerHeight() + 1,
 					terminate:	function() { $header.removeClass('alt'); },
 					enter:		function() { $header.addClass('alt'); },

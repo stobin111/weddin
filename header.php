@@ -8,6 +8,7 @@
 					<ul>
 						<li><a href="index.php">Home</a></li>
 						<li><a href="info.php">Information</a></li>
+						<li><a href="toDo.php">Things to do</a></li>
 					</ul>
 				</div>
 			</li>

@@ -1,10 +1,9 @@
 <footer id="footer">
-	<!-- <ul class="icons">
-		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-		<li><a href="mailto:seantobin7@gmail.com?Subject=Wedding%20contact" target="_top" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-	</ul> -->
+  <ul class="icons">
+		<li><p style="margin-bottom: 0;">Please share your photos and videos using<a style="border: none;" target="_blank" href="https://wedpics.com/wedding/GI4TGOJXHEZA"><img style="margin-bottom: -7px;" src="images/wedpics.png" alt=""></a></p></li>
+		<!-- <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li> -->
+	</ul>
 	<ul class="copyright">
 		<li>&copy; 2016 Mr. Lobster, LLC</li><!-- <li>Design: <a href="http://html5up.net">HTML5 UP</a></li> -->
 	</ul>

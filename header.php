@@ -8,7 +8,7 @@
 					<ul>
 						<li><a href="/">Home</a></li>
 						<li><a href="deets">Information</a></li>
-						<li><a href="toDo">Things to do</a></li>
+						<li><a href="things">Things to do</a></li>
 					</ul>
 				</div>
 			</li>

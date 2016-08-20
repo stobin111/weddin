@@ -2373,7 +2373,7 @@
 	}
 
 		.features li {
-			padding: 4em 4em 2em 6em ;
+			padding: 4em 3em;
 			display: block;
 			position: relative;
 			text-align: left;
@@ -3888,3 +3888,31 @@ ul.actions {
     text-align: center;
   }
 }
+
+.regLink {
+  border: none;
+}
+
+.regLink img {
+  display: block;
+  margin: auto;
+  opacity: 1;
+}
+
+.regLink:hover img{
+  opacity: .7;
+}
+
+.wedPicsLink {
+  border-bottom: none;
+}
+
+.wedPicsLink img {
+  opacity: 1;
+  margin-bottom: -7px;
+}
+
+.wedPicsLink:hover img {
+  opacity: .7;
+}
+

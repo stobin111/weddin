@@ -94,16 +94,15 @@
 					<section id="three" class="wrapper style3 special">
 						<div class="inner">
 							<header class="major">
-								<h2>Other events</h2>
+								<h2>Registry</h2>
+								<p>We can't wait to get married and are so honored to have you at our wedding! If you would like to help us start our new life together, we have registered for items we would love to have in our home.</p>
 							</header>
 							<ul class="features">
-								<li class="icon fa-beer">
-									<h3>Friday Drinks</h3>
-									<p>We will be gathering for drinks and appetizers on Friday September 16th. Time and location information coming soon.</p>
+								<li>
+                  <a class="regLink" target="_blank" href="http://www.target.com/gift-registry/giftgiver?registryId=IwpsnaAFqDe3_HcfRhNq-Q"><img src="images/r1.png" alt="reg1"></a>
 								</li>
-								<li class="icon fa-cutlery">
-									<h3>Sunday Brunch</h3>
-									<p>We are having brunch on Sunday September 18th. Time and location information coming soon.</p>
+								<li>
+								  <a class="regLink" target="_blank" href="http://www.crateandbarrel.com/gift-registry/emily-branigan-and-sean-tobin/r5493354"><img src="images/r2.png " alt="reg2"></a>
 								</li>
 								<!-- <li class="icon fa-code">
 									<h3>Mus Scelerisque</h3>

@@ -1,6 +1,6 @@
 <footer id="footer">
   <ul class="icons">
-		<li><p style="margin-bottom: 0;">Please share your photos and videos using<a style="border: none;" target="_blank" href="https://wedpics.com/wedding/GI4TGOJXHEZA"><img style="margin-bottom: -7px;" src="images/wedpics.png" alt=""></a></p></li>
+		<li><p style="margin-bottom: 0;">Please share your photos and videos using<a target="_blank" class="wedPicsLink" href="https://wedpics.com/wedding/GI4TGOJXHEZA"><img  src="images/wedpics.png" alt=""></a></p></li>
 		<!-- <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li> -->
 	</ul>

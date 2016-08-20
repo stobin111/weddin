@@ -44,7 +44,7 @@
                 </div>
               </div>
 							<ul class="actions">
-								<li><a href="deets.php" class="button special scrolly">More Info</a></li>
+								<li><a href="deets" class="button special scrolly">More Info</a></li>
 							</ul>
 						</div>
 						<a href="#one" class="more scrolly"></a>

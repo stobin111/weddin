@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-	<?php include('head.php'); ?>
+	<?php include('head.php');?>
 	<body class="landing">
 		<!-- Google Tag Manager -->
 		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5NF6MV"

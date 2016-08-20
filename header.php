@@ -7,8 +7,8 @@
 				<div id="menu">
 					<ul>
 						<li><a href="/">Home</a></li>
-						<li><a href="deets.php">Information</a></li>
-						<li><a href="toDo.php">Things to do</a></li>
+						<li><a href="deets">Information</a></li>
+						<li><a href="toDo">Things to do</a></li>
 					</ul>
 				</div>
 			</li>

@@ -50,7 +50,7 @@
 								  <div class="6u 12u$(medium)">
 								    <p>Germanic American Institute<br />
 301 Summit Ave, St Paul, MN 55102</p>
-                    <p>The reception will begin at 5:30pm at The Germanic American Institute in Saint Paul.</p>
+                    <p>The reception will begin at 5:00pm at The Germanic American Institute in Saint Paul.</p>
 								  </div>
 								  <div class="6u 12u$(medium)">
 								    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2823.9584954225834!2d-93.11464528445987!3d44.944511679098156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87f62abbf6c7e2c3%3A0x40d8f54028534321!2s301+Summit+Ave%2C+St+Paul%2C+MN+55102!5e0!3m2!1sen!2sus!4v1468948980962" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

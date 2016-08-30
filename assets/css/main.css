@@ -3916,3 +3916,11 @@ ul.actions {
   opacity: .7;
 }
 
+@media screen and (max-width: 480px) {
+  #countdown > div {
+    padding: 8px;
+  }
+  #countdown > div > div:not(.smalltext) {
+    font-size: 1.3em;
+  }
+}

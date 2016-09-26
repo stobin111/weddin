@@ -25,7 +25,8 @@
 							<h2>Emily &amp; Sean</h2>
 							<p>September 17, 2016<br />
 							Saint Paul, Minnesota<br />
-						  <div id="countdown">
+							<p>Thank you everyone for joining us at our wedding. We had a wonderful time. Please share your photos with everyone through <a target="_blank" class="wedPicsLink" href="https://wedpics.com/wedding/GI4TGOJXHEZA"><img  src="images/wedpics.png" alt=""></a></p>
+						  <!-- <div id="countdown">
                 <div>
                   <div class="days"></div>
                   <div class="smalltext">Days</div>
@@ -42,7 +43,7 @@
                   <div class="seconds"></div>
                   <div class="smalltext">Seconds</div>
                 </div>
-              </div>
+              </div> -->
 							<ul class="actions">
 								<li><a href="deets" class="button special scrolly">More Info</a></li>
 							</ul>

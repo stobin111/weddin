@@ -25,7 +25,7 @@
 							<h2>Emily &amp; Sean</h2>
 							<p>September 17, 2016<br />
 							Saint Paul, Minnesota<br />
-							<p style="width: 60em; margin: 2em auto;">Thank you everyone for joining us at our wedding. We had a wonderful time. Please share your photos with everyone on <a target="_blank" class="wedPicsLink" href="https://wedpics.com/wedding/GI4TGOJXHEZA"><img  src="images/wedpics.png" alt=""></a></p>
+							<p style="width: 60em; margin: 2em auto;">Thank you everyone for joining us at our wedding. We had a wonderful time. Please share your photos on <a target="_blank" class="wedPicsLink" href="https://wedpics.com/wedding/GI4TGOJXHEZA"><img  src="images/wedpics.png" alt=""></a></p>
 						  <!-- <div id="countdown">
                 <div>
                   <div class="days"></div>
